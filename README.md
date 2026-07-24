@@ -24,6 +24,23 @@ linux-admin-toolkit/
 └── LICENSE
 ```
 
+## Screenshots
+
+### CPU Monitor
+![CPU Monitor](screenshots/cpu-monitor.png)
+
+### Memory Monitor
+![Memory Monitor](screenshots/memory-monitor.png)
+
+### Disk Monitor
+![Disk Monitor](screenshots/disk-monitor.png)
+
+### System Information
+![System Information](screenshots/system-info.png)
+
+### Log Analyzer
+![Log Analyzer](screenshots/log-analyzer.png)
+
 ## Requirements
 
 - Python 3.10+
