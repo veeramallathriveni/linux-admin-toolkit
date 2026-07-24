@@ -9,3 +9,5 @@
 
 ```bash
 pip install -r requirements.txt
+python cpu_monitor.py
+```
