@@ -1,24 +1,25 @@
-# Linux Admin Toolkit
-
-A collection of Linux system administration and automation scripts built using Python and Bash.
-
-## Features
-
-- CPU Usage Monitor
-- Memory Usage Monitor
-- Disk Space Checker
-- System Information
-- User Management
-- Log File Analyzer
-
-## Technologies
-
-- Python
-- Bash
-- Linux
-- Git
-- GitHub
-
-## Author
-
-Thriveni
+linux-admin-toolkit/
+│
+├── admin/
+│   ├── README.md
+│   ├── user_manager.py
+│   ├── log_analyzer.py
+│   └── sample.log
+│
+├── monitors/
+│   ├── README.md
+│   ├── cpu_monitor.py
+│   ├── memory_monitor.py
+│   ├── disk_monitor.py
+│   ├── network_monitor.py
+│   └── system_info.py
+│
+├── docs/
+│   └── Installation.md
+│
+├── screenshots/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
